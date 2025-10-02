@@ -133,6 +133,3 @@ DELETE /tarefas/6520e0f1a2b3c4d56789abcd
 * O MongoDB é usado para persistência, permitindo flexibilidade no armazenamento de dados.
 
 ---
-
-Quer que eu faça isso?
-```
